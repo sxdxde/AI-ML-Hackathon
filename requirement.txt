@@ -1,0 +1,16 @@
+pandas          # Data loading and manipulation
+numpy           # Numerical computing foundation
+matplotlib       # Static plotting
+seaborn        # Statistical/pretty plots
+plotly           # Interactive plots (express & graph_objects)
+plotly.express   # Quick, interactive visualizations (scatter, bar, etc.)
+plotly.graph_objects  # Fine‑grained, customizable interactive plots
+scikit-learn    # ML models, preprocessing, metrics
+xgboost          # Gradient‑boosted trees for regression/classification
+joblib           # Model serialization (also a sklearn dependency)
+ipywidgets       # Interactive widgets in notebooks
+ipython         # Rich Jupyter display tools
+notebook        # Needed if you run this inside Jupyter
+json             # Parse and generate JSON (built‑in, so no install)
+traceback        # Capture and format stack traces (built‑in)
+warnings         # Control or suppress runtime warnings (built‑in)
